@@ -1,6 +1,6 @@
 ### Hi there 👋
 Study for exams and coding apps
-![KokoD3veloper's Github Stats](https://github-readme-stats.vercel.app/api?username=KokoD3veloper&show_icons=true&theme=radical)
+![KokoD3veloper's Github Stats](https://github-readme-stats.vercel.app/api?username=KokoD3veloper&show_icons=false&theme=radical)
 
 <!--
 **KokoD3veloper/KokoD3veloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
